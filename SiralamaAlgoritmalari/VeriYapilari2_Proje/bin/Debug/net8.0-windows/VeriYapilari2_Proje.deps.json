@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VeriYapilari2_Proje/1.0.0": {
+        "runtime": {
+          "VeriYapilari2_Proje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VeriYapilari2_Proje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

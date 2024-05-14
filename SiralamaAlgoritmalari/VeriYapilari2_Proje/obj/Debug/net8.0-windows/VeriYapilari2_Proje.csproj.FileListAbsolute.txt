@@ -1,0 +1,16 @@
+C:\Users\Casper\Desktop\ProjeOdevi\VeriYapilari2_Proje\VeriYapilari2_Proje\bin\Debug\net8.0-windows\VeriYapilari2_Proje.exe
+C:\Users\Casper\Desktop\ProjeOdevi\VeriYapilari2_Proje\VeriYapilari2_Proje\bin\Debug\net8.0-windows\VeriYapilari2_Proje.deps.json
+C:\Users\Casper\Desktop\ProjeOdevi\VeriYapilari2_Proje\VeriYapilari2_Proje\bin\Debug\net8.0-windows\VeriYapilari2_Proje.runtimeconfig.json
+C:\Users\Casper\Desktop\ProjeOdevi\VeriYapilari2_Proje\VeriYapilari2_Proje\bin\Debug\net8.0-windows\VeriYapilari2_Proje.dll
+C:\Users\Casper\Desktop\ProjeOdevi\VeriYapilari2_Proje\VeriYapilari2_Proje\bin\Debug\net8.0-windows\VeriYapilari2_Proje.pdb
+C:\Users\Casper\Desktop\ProjeOdevi\VeriYapilari2_Proje\VeriYapilari2_Proje\obj\Debug\net8.0-windows\VeriYapilari2_Proje.Form1.resources
+C:\Users\Casper\Desktop\ProjeOdevi\VeriYapilari2_Proje\VeriYapilari2_Proje\obj\Debug\net8.0-windows\VeriYapilari2_Proje.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\ProjeOdevi\VeriYapilari2_Proje\VeriYapilari2_Proje\obj\Debug\net8.0-windows\VeriYapilari2_Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\ProjeOdevi\VeriYapilari2_Proje\VeriYapilari2_Proje\obj\Debug\net8.0-windows\VeriYapilari2_Proje.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\ProjeOdevi\VeriYapilari2_Proje\VeriYapilari2_Proje\obj\Debug\net8.0-windows\VeriYapilari2_Proje.AssemblyInfo.cs
+C:\Users\Casper\Desktop\ProjeOdevi\VeriYapilari2_Proje\VeriYapilari2_Proje\obj\Debug\net8.0-windows\VeriYapilari2_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\ProjeOdevi\VeriYapilari2_Proje\VeriYapilari2_Proje\obj\Debug\net8.0-windows\VeriYapilari2_Proje.dll
+C:\Users\Casper\Desktop\ProjeOdevi\VeriYapilari2_Proje\VeriYapilari2_Proje\obj\Debug\net8.0-windows\refint\VeriYapilari2_Proje.dll
+C:\Users\Casper\Desktop\ProjeOdevi\VeriYapilari2_Proje\VeriYapilari2_Proje\obj\Debug\net8.0-windows\VeriYapilari2_Proje.pdb
+C:\Users\Casper\Desktop\ProjeOdevi\VeriYapilari2_Proje\VeriYapilari2_Proje\obj\Debug\net8.0-windows\VeriYapilari2_Proje.genruntimeconfig.cache
+C:\Users\Casper\Desktop\ProjeOdevi\VeriYapilari2_Proje\VeriYapilari2_Proje\obj\Debug\net8.0-windows\ref\VeriYapilari2_Proje.dll
